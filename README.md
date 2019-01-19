@@ -2,6 +2,8 @@
 
 # icons
 
+[画像はInstaLogo](https://itunes.apple.com/jp/app/instalogo-%E3%83%AD%E3%82%B4%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC-%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC/id576443892?mt=8) というツールで作成しています。
+
 ### パターン001
 
 | 01  | 02 | 03 | 04 | 05 | 06 |
@@ -11,10 +13,6 @@
 ### パターン002
 
 <img src="https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE002-01.png" width="120px">
-
-| 01  | 
-| --- |
-| ![]()|
 
 ### パターン003
 
