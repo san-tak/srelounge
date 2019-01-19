@@ -10,9 +10,11 @@
 
 ### パターン002
 
+<img src="https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE002-01.png" width="120px">
+
 | 01  | 
 | --- |
-| ![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE002-01.png)|
+| ![]()|
 
 ### パターン003
 
