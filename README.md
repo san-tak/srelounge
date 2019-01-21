@@ -8,9 +8,17 @@
 
 ### パターン001
 
+| 01  | 02 | 03 | 04 | 05 | 06 | 07 | 
+| --- | --- | --- | --- | --- | --- | --- |
+| ![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-01.png)| ![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-02.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-03.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-04.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-05.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-06.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-07.png)| 
+
+### パターン001 トカゲバージョン
+
+* トカゲのシルエットは、https://www.photo-ac.com/ のフリー素材を使用しています。
+
 | 01  | 02 | 03 | 04 | 05 | 06 |
 | --- | --- | --- | --- | --- | --- |
-| ![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-01.png)| ![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-02.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-03.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-04.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-05.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-06.png)| 
+| ![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-20.png)| ![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-21.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-22.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-30.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-31.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE001-32.png)|
 
 ### パターン002
 
