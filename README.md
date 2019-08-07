@@ -38,5 +38,9 @@
 | --- | --- | --- | --- |
 | ![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE004-01.png)| ![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE004-02.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE004-03.png)|![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE004-04.png)|
 
+### ロングパターン
+
+![](https://raw.githubusercontent.com/san-tak/srelounge/icons/SRE100.png)
+
 ## about SRE Lounge
 * https://sre-lounge.connpass.com/
